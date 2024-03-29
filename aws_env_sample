@@ -1,0 +1,5 @@
+LANG=ja_JP.UTF-8
+export TF_VAR_aws_access_key="XXXXX"
+export TF_VAR_aws_secret_key="XXXXX"
+export TF_VAR_aws_iam_role_arn="arn:aws:iam::nnnnn:role/XXXXX"
+export TF_VAR_aws_region="ap-northeast-1"
